@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-top: 10px;
+  }
+
+  #contenedor {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom:10px;
+  }
+
+  .titulo-foto {
+    font-size: 18px;
+    margin-bottom: 100px;
+    margin-left:100px;
+  }
+
+  #resultado{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-bottom:400px;
+    padding-left:0px;
+    margin-right:50px;
+  }
